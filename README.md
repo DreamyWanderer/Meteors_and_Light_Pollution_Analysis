@@ -1,5 +1,7 @@
 # Introduction to Data Science Course - HCMUS-VNUHCM - Final Project
 
+**This repository currently is not the lastest working version. The repo may contain codebase that does not work as expected or even does not work at all.**
+
 ## Inforation
 
 - Topic: Investigating Meteor-Related Phenomena and their Association with Light Pollution
